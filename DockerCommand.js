@@ -56,3 +56,9 @@
 
 // ! volume related command 
 // ? docker volume --help
+
+// ! kono image build ar jonne env variable ar need hole --like database credentials for database image build 
+//? docker run -d --env envVariable_name=value --name mysqldb mysql
+
+// ! kono container ar details like inspect details dekhar jonne 
+// ? docker inspect container_name
