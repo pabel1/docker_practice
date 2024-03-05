@@ -50,3 +50,9 @@
 // ! existing docker image ar tag and name change krte hole 
 // ? docker tag oldname:tag newname:tag
 
+// ! docker volume : jokhon container ar baire kono repo/directory te run kora container programer ar data,file aigulo rakhar need hoi and sei container remove hoye geleo jen sei file ,data gulo thake tokhon volume use kra hoi 
+
+// ? docker run -it --rm -v myvolume:/myapp/ image_id
+
+// ! volume related command 
+// ? docker volume --help
